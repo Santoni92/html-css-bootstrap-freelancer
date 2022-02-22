@@ -1,0 +1,21 @@
+/*generics*/
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+/*utilities*/
+
+
+/*content*/
+#header{
+    background-color: #353c45;
+}
+
+#header h1{
+    color:white;
+}
+
+#jumbotron{
+    background-color: #1abc9c;
+}
