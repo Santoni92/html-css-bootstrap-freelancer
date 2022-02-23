@@ -24,6 +24,15 @@ body {
     justify-content: flex-end;
   }
 
+  .sa-card-width {
+    width: 80%;
+    min-width: 250px;
+  }
+  
+  .sa-row-gap-20 {
+    row-gap: 20px;
+  }
+
 /* bootstrap customizations */
 
 .bg-primary {
@@ -33,5 +42,12 @@ body {
 
 
 /*content*/
+#profile .card{
+    background-color: #1abc9c;
+}
+
+#profile a{
+    text-decoration: none;
+}
 
 
