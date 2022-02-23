@@ -20,6 +20,18 @@ body {
     border: 1px dashed red;
   }
 
+  .sa-flex-end {    /*è buona norma dare le iniziali del mio nome (o dell'eventuale team) per distinguere le mie classi da quelle di bootstrap*/
+    justify-content: flex-end;
+  }
+
+/* bootstrap customizations */
+
+.bg-primary {
+    background-color: #6395ad !important;
+  }
+/* / bootstrap customizations */
+
+
 /*content*/
 
 
