@@ -4,18 +4,22 @@
     padding:0px;
     box-sizing:border-box;
 }
-/*utilities*/
 
+
+body {
+    font-family: sans-serif;
+  }
+  
+  header,
+  section {
+    min-height: 200px;
+  }
+
+/*utilities*/
+[class*="col"] {
+    border: 1px dashed red;
+  }
 
 /*content*/
-#header{
-    background-color: #353c45;
-}
 
-#header h1{
-    color:white;
-}
 
-#jumbotron{
-    background-color: #1abc9c;
-}
