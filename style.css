@@ -36,7 +36,13 @@ body {
   .sa-row-gap-20 {
     row-gap: 20px;
   }
-  
+
+.sa-btn{
+    background-color: #1abc9c;
+    color:white;
+    border: 1px solid white;
+    border-radius:50px;
+}
 
 /* bootstrap customizations */
 
