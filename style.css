@@ -33,6 +33,11 @@ body {
     row-gap: 20px;
   }
 
+  .sa-row-gap-20 {
+    row-gap: 20px;
+  }
+  
+
 /* bootstrap customizations */
 
 .bg-primary {
@@ -59,6 +64,10 @@ body {
 
 #portfolio img{
     width:100%;
+}
+
+#about{
+    background-color: #1abc9c;
 }
 
 
