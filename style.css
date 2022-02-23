@@ -80,6 +80,17 @@ body {
  color:#2c3e50;
 }
 
+#info-footer{
+    background-color: #3a546d;
+}
+
+#info-footer span{
+    border:1px solid white;
+    border-radius: 50px;
+    padding:5px;
+    margin:5px;
+}
+
 
 
 
